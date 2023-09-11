@@ -29,7 +29,7 @@ The heart of the project lay in the selection of an appropriate machine learning
 Our chosen SGD classification model achieved an accuracy of about 80% and an F1 score of approximately 81% in predicting car models based on advertisement titles. It's important to note that the quality of data and preprocessing methods can affect the model's performance.
 
 ## Accessing the Dataset
-The primary dataset for this project is available on Kaggle. It originates from car advertisements on Divar. You can download it from the following Kaggle link: Kaggle Dataset Link[https://www.kaggle.com/mohsenfayyaz55/divar-car-ads-dataset]
+The primary dataset for this project is available on Kaggle. It originates from car advertisements on Divar. You can download it from the following Kaggle link: [Kaggle Dataset Link](https://www.kaggle.com/datasets/aliardakani78/caradtitles-modelpredict)
 
 ## Acknowledgments
 If you find this project useful or have suggestions, please feel free to contribute. We appreciate your support and welcome any feedback.
